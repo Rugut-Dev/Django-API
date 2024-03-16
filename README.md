@@ -1,4 +1,4 @@
-# Django API Project README
+# Django API Project
 
 This Django API project provides endpoints for managing products and their variants.
 
