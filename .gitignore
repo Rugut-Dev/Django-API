@@ -1,0 +1,8 @@
+apiApplication/__pycache__
+apiApplication/__init__.py
+apiApplication/migrations
+
+ApiProject/__*
+db.sqlite3
+
+
